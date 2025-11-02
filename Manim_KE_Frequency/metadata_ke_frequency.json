@@ -1,0 +1,106 @@
+{
+  "problem": "A particle executes simple harmonic motion with frequency f. The frequency with which its kinetic energy oscillates is ____.",
+  "visual_specifications": {
+    "coordinate_system": {
+      "include_numbers": false,
+      "position": "centered_horizontal_axis"
+    },
+    "motion": {
+      "particle_color": "RED",
+      "velocity_arrow_color": "BLUE",
+      "amplitude_labels": ["−A", "+A"],
+      "equilibrium_label": "O"
+    },
+    "energy_bars": {
+      "kinetic_color": "RED",
+      "potential_color": "GREEN",
+      "layout": "side_by_side_below_axis",
+      "max_height": 1.5
+    },
+    "text_style": {
+      "title_color": "YELLOW",
+      "font_scale": 0.8
+    },
+    "safe_colors": ["BLUE", "RED", "GREEN", "YELLOW", "WHITE", "GRAY"]
+  },
+  "total_duration_seconds": 90,
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Introduction — SHM overview",
+      "duration_seconds": 10,
+      "narration_segments": [
+        {
+          "text": "This animation shows simple harmonic motion and the variation of kinetic and potential energy.",
+          "duration_seconds": 5
+        },
+        {
+          "text": "A particle moves to and fro about an equilibrium position performing simple harmonic motion.",
+          "duration_seconds": 5
+        }
+      ],
+      "visual_actions": [
+        "Display title at top.",
+        "Draw horizontal axis with equilibrium marker labeled 'O'.",
+        "Show particle performing SHM between −A and +A with labeled amplitudes."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Energy variation during motion",
+      "duration_seconds": 20,
+      "narration_segments": [
+        {
+          "text": "As the particle moves, kinetic and potential energies vary with time.",
+          "duration_seconds": 8
+        }
+      ],
+      "visual_actions": [
+        "Display red bar for kinetic energy and green bar for potential energy.",
+        "Bars vary in opposite phase as the particle moves."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mathematical explanation",
+      "duration_seconds": 45,
+      "narration_segments": [
+        { "text": "Let us understand this mathematically. The displacement of the particle in simple harmonic motion is given by x equals A, cos omega t.", "duration_seconds": 7 },
+        { "text": "Omega which represents angular frequency is two pi f.", "duration_seconds": 4 },
+        { "text": "So we can represent the displacement A, cos two pi f t.", "duration_seconds": 4 },
+        { "text": "Differentiating with respect to time gives the velocity, v, equals minus two pi f A sine two pi f t.", "duration_seconds": 6 },
+        { "text": "Kinetic energy is half, m, v squared, so substituting for, v, we get.", "duration_seconds": 5 },
+        { "text": "Using the trigonometric identity sine squared theta equals one minus cos two theta over two.", "duration_seconds": 5 },
+        { "text": "So we can say that the kinetic energy is proportional to one minus cos four pi f t over two, which means new angular frequency is two omega.", "duration_seconds": 7 },
+        { "text": "This shows that the kinetic energy varies with time with a frequency of four pi f divided by two pi, which is two f.", "duration_seconds": 7 }
+      ],
+      "visual_actions": [
+        "Fade out physical diagram.",
+        "Show sequential MathTex equations for x(t), v(t), KE, trigonometric identity, and final frequency relation.",
+        "Highlight the term indicating frequency doubling."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Conclusion",
+      "duration_seconds": 10,
+      "narration_segments": [
+        { "text": "Therefore, the kinetic energy oscillates with frequency two f.", "duration_seconds": 5 }
+      ],
+      "visual_actions": [
+        "Display final highlighted answer text 'Answer: 2f' in yellow.",
+        "Show a short recap animation summarizing frequency doubling."
+      ]
+    }
+  ],
+  "final_notes": {
+    "answer": "2f",
+    "concept_summary": "Kinetic energy depends on v squared which introduces cos squared term, doubling the oscillation frequency."
+  },
+  "settings": {
+    "speech_service": "GTTS",
+    "speech_language": "en",
+    "speech_rate_reference": "1.4 words/sec"
+  },
+  "metadata_version": "1.0"
+}

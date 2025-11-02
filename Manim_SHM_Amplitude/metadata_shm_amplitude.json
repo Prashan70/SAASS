@@ -1,0 +1,146 @@
+{
+  "problem": "An object of mass 0.2 kg executes SHM along the X-axis with frequency 25/π Hz. At x = 0.04 m, the object has kinetic energy 0.5 J and potential energy 0.4 J. Find the amplitude of oscillations.",
+  "visual_specifications": {
+    "coordinate_system": {
+      "include_numbers": false,
+      "position": "center"
+    },
+    "text_flow_system": {
+      "center_position": "RIGHT * 3 + UP * 0.5",
+      "flow_direction": "upward_waterfall",
+      "max_visible_blocks": 4
+    },
+    "energy_bars": {
+      "positioning": "below_oscillator",
+      "layout": "horizontal_array"
+    },
+    "color_safety": {
+      "safe_colors": ["YELLOW", "WHITE", "BLUE", "RED", "GREEN", "ORANGE"],
+      "avoid_colors": ["CYAN", "PINK", "TEAL", "LIME"]
+    }
+  },
+  "total_duration_seconds": 50,
+  "word_to_second": 0.70,
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Setup — Problem Introduction",
+      "duration_seconds": 8.0,
+      "narration_segments": [
+        {
+          "text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+          "word_count": 22,
+          "duration_seconds": 8.0
+        }
+      ],
+      "visual_actions": [
+        "Display title 'Finding Amplitude in SHM'.",
+        "Show a simple mass-spring oscillator moving along x-axis with equilibrium marked.",
+        "Label given quantities: m equals 0.2 kg and f equals 25 by pi hertz."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Given Conditions and Objective",
+      "duration_seconds": 9.0,
+      "narration_segments": [
+        {
+          "text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules. We have to find the amplitude.",
+          "word_count": 33,
+          "duration_seconds": 9.0
+        }
+      ],
+      "visual_actions": [
+        "Show text: x = 0.04 m, KE = 0.5 J, PE = 0.4 J.",
+        "Highlight total energy equals KE plus PE."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Step 1 — Total Energy Relation",
+      "duration_seconds": 8.0,
+      "narration_segments": [
+        {
+          "text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+          "word_count": 14,
+          "duration_seconds": 6.0
+        },
+        {
+          "text": "At any position, potential energy is half k x squared.",
+          "word_count": 10,
+          "duration_seconds": 3.0
+        }
+      ],
+      "visual_actions": [
+        "Display MathTex: E = KE + PE = 1/2 k A^2.",
+        "Then show: PE = 1/2 k x^2."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Step 2 — Calculate ω and k",
+      "duration_seconds": 8.0,
+      "narration_segments": [
+        {
+          "text": "Angular frequency omega equals two pi f. Substituting f equals twenty five by pi gives omega equals fifty radians per second.",
+          "word_count": 26,
+          "duration_seconds": 6.0
+        },
+        {
+          "text": "Hence k equals m omega squared, equal to zero point two times fifty squared, equal to five hundred newtons per meter.",
+          "word_count": 24,
+          "duration_seconds": 5.0
+        }
+      ],
+      "visual_actions": [
+        "Show MathTex: ω = 2πf = 50 rad/s.",
+        "Show MathTex: k = mω² = 0.2(50)² = 500 N/m."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Step 3 — Energy and Amplitude",
+      "duration_seconds": 10.0,
+      "narration_segments": [
+        {
+          "text": "The total energy equals zero point nine joules. Substituting in E equals one half k A squared gives amplitude equals zero point zero six meters.",
+          "word_count": 25,
+          "duration_seconds": 10.0
+        }
+      ],
+      "visual_actions": [
+        "Show MathTex: E = 0.5 + 0.4 = 0.9 J.",
+        "Then display: 0.9 = 1/2(500)A².",
+        "Highlight result: A = 0.06 m."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Final Summary",
+      "duration_seconds": 7.0,
+      "narration_segments": [
+        {
+          "text": "Therefore the amplitude of oscillation is zero point zero six meters.",
+          "word_count": 11,
+          "duration_seconds": 5.0
+        }
+      ],
+      "visual_actions": [
+        "Display final answer text in large yellow font: Amplitude A = 0.06 m.",
+        "Keep the oscillator moving for a short concluding animation."
+      ]
+    }
+  ],
+  "final_notes": {
+    "correct_choice": "A = 0.06 m",
+    "explanation_summary": "By using energy relations and k = m ω², we find amplitude A equals 0.06 meters.",
+    "next_step": "Implement each narration segment as a voiceover block in Manim using GTTS and sync visuals with tracker durations."
+  },
+  "metadata_version": "1.0",
+  "settings": {
+    "speech_service": "GTTS",
+    "speech_language": "en",
+    "speech_rate_reference": "1.4 words/sec",
+    "include_numbers": false
+  }
+}

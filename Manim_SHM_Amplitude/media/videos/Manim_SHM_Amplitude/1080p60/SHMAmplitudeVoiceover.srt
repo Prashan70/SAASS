@@ -1,0 +1,52 @@
+1
+00:00:03,000 --> 00:00:09,170
+An object of mass zero point two kilograms executes simple harmonic motion
+
+2
+00:00:09,270 --> 00:00:13,916
+along the x axis with frequency twenty five by pi hertz.
+
+3
+00:00:14,016 --> 00:00:17,847
+At position x equals zero point zero four meters,
+
+4
+00:00:17,947 --> 00:00:21,698
+the kinetic energy is zero point five joules and
+
+5
+00:00:21,798 --> 00:00:25,148
+potential energy is zero point four joules.
+
+6
+00:00:25,248 --> 00:00:29,156
+The total energy in simple harmonic motion is
+
+7
+00:00:29,256 --> 00:00:33,164
+equal to one half, omega squared, A, squared.
+
+8
+00:00:33,248 --> 00:00:39,676
+Therefore, A, equals square root of two E, over m, omega squared.
+
+9
+00:00:39,764 --> 00:00:43,567
+Angular frequency omega, equals two pi f.
+
+10
+00:00:43,667 --> 00:00:48,232
+Therefore, omega equals fifty radians per second.
+
+11
+00:00:48,331 --> 00:00:53,919
+The total energy equals zero point nine joules. Substituting the values
+
+12
+00:00:54,019 --> 00:00:59,367
+into the equation gives amplitude equals zero point zero six meters.
+
+13
+00:00:59,464 --> 00:01:05,268
+Therefore, the amplitude of oscillation is zero point zero six meters.
+

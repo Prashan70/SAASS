@@ -1,0 +1,911 @@
+[
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half k x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half k x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-k-x-aa8de805.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half k A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-ed99b9b3.mp3"
+  },
+  {
+    "input_text": "At any position, potential energy is half m, omega squared, x squared.",
+    "input_data": {
+      "input_text": "At any position, potential energy is half m, omega squared, x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "at-any-position-potential-energy-is-half-m-omega-3024056a.mp3",
+    "final_audio": "at-any-position-potential-energy-is-half-m-omega-3024056a.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+    "input_data": {
+      "input_text": "Hence k equals m omega squared, which equals five hundred newtons per meter.",
+      "service": "gtts"
+    },
+    "original_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3",
+    "final_audio": "hence-k-equals-m-omega-squared-which-equals-five-087238c7.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-497d934c.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half, omega squared, A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half, omega squared, A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-8e4a143d.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-8e4a143d.mp3"
+  },
+  {
+    "input_text": "Therefore, A equals square root of two E over m, omega squared.",
+    "input_data": {
+      "input_text": "Therefore, A equals square root of two E over m, omega squared.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-a-equals-square-root-of-two-e-over-m-42ade9f0.mp3",
+    "final_audio": "therefore-a-equals-square-root-of-two-e-over-m-42ade9f0.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting the values into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting the values into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-d50d649e.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-d50d649e.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half, omega squared, A squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half, omega squared, A squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-8e4a143d.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-8e4a143d.mp3"
+  },
+  {
+    "input_text": "Therefore, A equals square root of two E over m, omega squared.",
+    "input_data": {
+      "input_text": "Therefore, A equals square root of two E over m, omega squared.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-a-equals-square-root-of-two-e-over-m-42ade9f0.mp3",
+    "final_audio": "therefore-a-equals-square-root-of-two-e-over-m-42ade9f0.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega equals two pi f. Substituting gives omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-f368df31.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting the values into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting the values into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-d50d649e.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-d50d649e.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  },
+  {
+    "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+    "input_data": {
+      "input_text": "An object of mass zero point two kilograms executes simple harmonic motion along the x axis with frequency twenty five by pi hertz.",
+      "service": "gtts"
+    },
+    "original_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3",
+    "final_audio": "an-object-of-mass-zero-point-two-kilograms-d08e9c97.mp3"
+  },
+  {
+    "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+    "input_data": {
+      "input_text": "At position x equals zero point zero four meters, the kinetic energy is zero point five joules and potential energy is zero point four joules.",
+      "service": "gtts"
+    },
+    "original_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3",
+    "final_audio": "at-position-x-equals-zero-point-zero-four-meters-a557c06c.mp3"
+  },
+  {
+    "input_text": "The total energy in simple harmonic motion is equal to one half, omega squared, A, squared.",
+    "input_data": {
+      "input_text": "The total energy in simple harmonic motion is equal to one half, omega squared, A, squared.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-in-simple-harmonic-motion-is-51f5cb25.mp3",
+    "final_audio": "the-total-energy-in-simple-harmonic-motion-is-51f5cb25.mp3"
+  },
+  {
+    "input_text": "Therefore, A, equals square root of two E, over m, omega squared.",
+    "input_data": {
+      "input_text": "Therefore, A, equals square root of two E, over m, omega squared.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-a-equals-square-root-of-two-e-over-m-f4e813bc.mp3",
+    "final_audio": "therefore-a-equals-square-root-of-two-e-over-m-f4e813bc.mp3"
+  },
+  {
+    "input_text": "Angular frequency omega, equals two pi f. Therefore, omega equals fifty radians per second.",
+    "input_data": {
+      "input_text": "Angular frequency omega, equals two pi f. Therefore, omega equals fifty radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "angular-frequency-omega-equals-two-pi-f-therefore-96eea93a.mp3",
+    "final_audio": "angular-frequency-omega-equals-two-pi-f-therefore-96eea93a.mp3"
+  },
+  {
+    "input_text": "The total energy equals zero point nine joules. Substituting the values into the equation gives amplitude equals zero point zero six meters.",
+    "input_data": {
+      "input_text": "The total energy equals zero point nine joules. Substituting the values into the equation gives amplitude equals zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "the-total-energy-equals-zero-point-nine-joules-d50d649e.mp3",
+    "final_audio": "the-total-energy-equals-zero-point-nine-joules-d50d649e.mp3"
+  },
+  {
+    "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+    "input_data": {
+      "input_text": "Therefore, the amplitude of oscillation is zero point zero six meters.",
+      "service": "gtts"
+    },
+    "original_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3",
+    "final_audio": "therefore-the-amplitude-of-oscillation-is-zero-b65715b9.mp3"
+  }
+]

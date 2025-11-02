@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,465
+This animation shows simple harmonic motion and
+
+2
+00:00:03,565 --> 00:00:06,956
+the variation of kinetic and potential energy.
+
+3
+00:00:07,056 --> 00:00:09,479
+A particle moves to and fro about
+
+4
+00:00:09,579 --> 00:00:13,916
+an equilibrium position performing simple harmonic motion.
+
+5
+00:00:15,016 --> 00:00:20,676
+As the particle moves, kinetic and potential energies vary with time.
+
+6
+00:00:20,776 --> 00:00:27,311
+Let us understand this mathematically. The displacement of the particle in simple
+
+7
+00:00:27,411 --> 00:00:31,572
+harmonic motion is given by x equals A, cos omega t.
+
+8
+00:00:31,659 --> 00:00:36,095
+Omega which represents angular frequency is two pi f.
+
+9
+00:00:36,659 --> 00:00:41,767
+So we can represent the displacement A, cos two pi f t.
+
+10
+00:00:41,867 --> 00:00:47,751
+Differentiating with respect to time gives the velocity, v, equals
+
+11
+00:00:47,851 --> 00:00:50,743
+minus two pi f A sine two pi f t.
+
+12
+00:00:50,834 --> 00:00:58,414
+Kinetic energy is half, m, v squared, so substituting for, v, we get.
+
+13
+00:00:58,514 --> 00:01:03,446
+Using the trigonometric identity sine squared theta equals
+
+14
+00:01:03,546 --> 00:01:06,310
+one minus cos two theta over two.
+
+15
+00:01:06,410 --> 00:01:12,038
+So we can say that the kinetic energy is proportional to one minus cos
+
+16
+00:01:12,138 --> 00:01:17,686
+four pi f t over two, which means new angular frequency is two omega.
+
+17
+00:01:17,776 --> 00:01:23,040
+This shows that the kinetic energy varies with time with a frequency
+
+18
+00:01:23,140 --> 00:01:26,748
+of four pi f divided by two pi, which is two f.
+
+19
+00:01:26,848 --> 00:01:31,716
+Therefore, the kinetic energy oscillates with frequency two f.
+

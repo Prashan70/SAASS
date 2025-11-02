@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:02,969
+Let's solve a problem on simple harmonic
+
+2
+00:00:03,069 --> 00:00:06,500
+motion involving kinetic and potential energy.
+
+3
+00:00:06,600 --> 00:00:11,074
+An object of mass zero point two kilograms executes SHM
+
+4
+00:00:11,174 --> 00:00:15,150
+along the x axis with frequency twenty five by pi
+
+5
+00:00:15,250 --> 00:00:20,390
+hertz. At displacement zero point zero four meters, its kinetic
+
+6
+00:00:20,490 --> 00:00:25,048
+energy is zero point five joules and potential energy is
+
+7
+00:00:25,148 --> 00:00:29,540
+zero point four joules. We have to find the amplitude.
+
+8
+00:00:30,633 --> 00:00:36,223
+The particle performs simple harmonic motion about the equilibrium position. The
+
+9
+00:00:36,323 --> 00:00:40,349
+total energy is the sum of kinetic and potential energies.
+
+10
+00:00:40,433 --> 00:00:45,191
+In simple harmonic motion, total energy is equal to kinetic
+
+11
+00:00:45,291 --> 00:00:49,885
+plus potential energy, which equals one half k A squared.
+
+12
+00:00:49,983 --> 00:00:53,508
+From the given data, kinetic plus potential
+
+13
+00:00:53,608 --> 00:00:56,627
+energy equals zero point nine joules.
+
+14
+00:00:56,716 --> 00:01:02,952
+We know that k equals m omega squared, and omega equals two pi f.
+
+15
+00:01:03,050 --> 00:01:07,985
+Substituting f equals twenty five by pi, we get omega equals
+
+16
+00:01:08,085 --> 00:01:12,937
+fifty radians per second, and hence k equals zero point two
+
+17
+00:01:13,037 --> 00:01:17,806
+times fifty squared equals five hundred newtons per meter.
+
+18
+00:01:17,900 --> 00:01:21,983
+Now using the relation for total energy, we have zero
+
+19
+00:01:22,083 --> 00:01:26,167
+point nine equals one half times five hundred times A
+
+20
+00:01:26,267 --> 00:01:31,456
+squared. Solving gives amplitude equals zero point zero six meters.
+
+21
+00:01:31,550 --> 00:01:36,826
+Hence, the amplitude of motion is zero point zero six meters.
+
