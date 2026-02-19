@@ -1,0 +1,29 @@
+[
+  {
+    "input_text": "A string is wrapped around a wheel of moment of inertia zero point two kilogram meter squared and radius zero point two meters. A force of twenty newtons is applied tangentially to the string. This force produces a torque equal to force times radius.The torque is therefore four newton meters. Using Newton\u2019s second law for rotation, torque equals moment of inertia times angular acceleration. This gives an angular acceleration of twenty radians per second squared. Since the wheel starts from rest, the angular velocity after five seconds is alpha times t, which is equal to one hundred radians per second.",
+    "input_data": {
+      "input_text": "A string is wrapped around a wheel of moment of inertia zero point two kilogram meter squared and radius zero point two meters. A force of twenty newtons is applied tangentially to the string. This force produces a torque equal to force times radius.The torque is therefore four newton meters. Using Newton\u2019s second law for rotation, torque equals moment of inertia times angular acceleration. This gives an angular acceleration of twenty radians per second squared. Since the wheel starts from rest, the angular velocity after five seconds is alpha times t, which is equal to one hundred radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "a-string-is-wrapped-around-a-wheel-of-moment-of-f4226001.mp3",
+    "final_audio": "a-string-is-wrapped-around-a-wheel-of-moment-of-f4226001.mp3"
+  },
+  {
+    "input_text": "A force of twenty newtons is applied to a string wrapped around a wheel of radius zero point two meters. This produces a torque equal to force times radius, which is four newton meters. Using torque equals moment of inertia times angular acceleration, the angular acceleration is twenty radians per second squared. Starting from rest, the angular velocity after five seconds is one hundred radians per second.",
+    "input_data": {
+      "input_text": "A force of twenty newtons is applied to a string wrapped around a wheel of radius zero point two meters. This produces a torque equal to force times radius, which is four newton meters. Using torque equals moment of inertia times angular acceleration, the angular acceleration is twenty radians per second squared. Starting from rest, the angular velocity after five seconds is one hundred radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "a-force-of-twenty-newtons-is-applied-to-a-string-e8e39eed.mp3",
+    "final_audio": "a-force-of-twenty-newtons-is-applied-to-a-string-e8e39eed.mp3"
+  },
+  {
+    "input_text": "A force of twenty newtons is applied to a string wrapped around a wheel of radius zero point two meters. This produces a torque equal to force times radius, which is four newton meters. Using torque equals moment of inertia times angular acceleration, the angular acceleration is twenty radians per second squared. Starting from rest, the angular velocity after five seconds is one hundred radians per second.",
+    "input_data": {
+      "input_text": "A force of twenty newtons is applied to a string wrapped around a wheel of radius zero point two meters. This produces a torque equal to force times radius, which is four newton meters. Using torque equals moment of inertia times angular acceleration, the angular acceleration is twenty radians per second squared. Starting from rest, the angular velocity after five seconds is one hundred radians per second.",
+      "service": "gtts"
+    },
+    "original_audio": "a-force-of-twenty-newtons-is-applied-to-a-string-e8e39eed.mp3",
+    "final_audio": "a-force-of-twenty-newtons-is-applied-to-a-string-e8e39eed.mp3"
+  }
+]

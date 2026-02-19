@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,847
+A force of twenty newtons is applied to a string wrapped around
+
+2
+00:00:04,947 --> 00:00:09,795
+a wheel of radius zero point two meters. This produces a torque
+
+3
+00:00:09,895 --> 00:00:15,292
+equal to force times radius, which is four newton meters. Using torque
+
+4
+00:00:15,392 --> 00:00:22,125
+equals moment of inertia times angular acceleration, the angular acceleration is twenty
+
+5
+00:00:22,225 --> 00:00:28,329
+radians per second squared. Starting from rest, the angular velocity after five
+
+6
+00:00:28,429 --> 00:00:31,628
+seconds is one hundred radians per second.
+

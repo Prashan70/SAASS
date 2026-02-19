@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "speech_language": "en"
+  },
+  "scenes": [
+    {
+      "narration_segments": [
+        {
+          "text": "A string is wrapped around a wheel of moment of inertia point two kilogram meter square and radius twenty centimeters."
+        },
+        {
+          "text": "The wheel is initially at rest and the string is pulled with a force of twenty newtons."
+        },
+        {
+          "text": "Let us calculate the angular velocity of the wheel after five seconds."
+        }
+      ]
+    },
+    {
+      "narration_segments": [
+        {
+          "text": "The applied force produces a torque on the wheel equal to force multiplied by radius."
+        },
+        {
+          "text": "Using the given values, the torque is four newton meter."
+        }
+      ]
+    },
+    {
+      "narration_segments": [
+        {
+          "text": "Angular acceleration is torque divided by moment of inertia."
+        },
+        {
+          "text": "The angular acceleration comes out to be twenty radians per second square."
+        }
+      ]
+    },
+    {
+      "narration_segments": [
+        {
+          "text": "Starting from rest, the angular velocity after five seconds is one hundred radians per second."
+        }
+      ]
+    }
+  ]
+}
